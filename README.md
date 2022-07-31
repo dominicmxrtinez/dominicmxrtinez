@@ -10,7 +10,7 @@ I'm a self-taught programmer who is learning to code for fun and enjoys learning
 
 ### What am I learning right now?
 
-* ZTM Web Development
+* The Odin Project
 * Data Structures and Algorithms
 
 ------------------------------------
